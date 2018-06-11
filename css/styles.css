@@ -4,9 +4,14 @@
 
 .contact {
   cursor: pointer;
-  color: #0088cc;
+  color: navy;
 }
 
 .contact:hover {
   text-decoration: underline;
+}
+
+
+body {
+  background-color: beige;
 }
